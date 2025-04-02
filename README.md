@@ -20,7 +20,7 @@ Protoboard e Jumpers - Para conexão dos componentes.
 
 ## Esquemático Elétrico
 
-![Esquemático do Circuito](docs/Sensor%20de%20Presença%20para%20Iluminação%20Automática.pdf)
+![Esquemático do Circuito](docs/esquematico-sensor-iluminacao-automatica.png)
 
 ## Instalação e Configuração
 
