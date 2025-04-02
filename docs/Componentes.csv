@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component
+"PIR1",1," PIR Sensor"
+"U1",1," Arduino Uno R3"
+"K1",1," Relay SPDT"
+"L1",1," Light bulb"
+"BAT1",1," 9V Battery"
